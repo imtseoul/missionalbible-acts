@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F7F8F6"/>
+  <rect width="24" height="630" fill="#2D3850"/>
+  <path d="M72 72H1128" stroke="#B7BDC7" stroke-width="2"/>
+  <text x="72" y="126" fill="#2D3850" font-family="Arial, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="22" font-weight="650" letter-spacing="3">ACTS 1-28 / JERUSALEM → ROME</text>
+  <text x="72" y="238" fill="#1A1D24" font-family="Arial, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">사도행전 장면·이동 지도</text>
+  <text x="76" y="298" fill="#5B6170" font-family="Arial, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="25" font-weight="500">본문 장면과 이동 경로를 시간 순서와 지리 안에서 확인합니다.</text>
+
+  <path d="M84 412H775" stroke="#356B7D" stroke-width="8"/>
+  <path d="M775 412H1108" stroke="#6F4B50" stroke-width="8" stroke-dasharray="14 9"/>
+  <circle cx="84" cy="412" r="12" fill="#D8B45A" stroke="#2D3850" stroke-width="3"/>
+  <circle cx="294" cy="412" r="9" fill="white" stroke="#2D3850" stroke-width="3"/>
+  <circle cx="520" cy="412" r="9" fill="white" stroke="#2D3850" stroke-width="3"/>
+  <circle cx="775" cy="412" r="9" fill="white" stroke="#2D3850" stroke-width="3"/>
+  <circle cx="1108" cy="412" r="12" fill="#D8B45A" stroke="#2D3850" stroke-width="3"/>
+
+  <g fill="#1A1D24" font-family="Arial, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="19" font-weight="650">
+    <text x="72" y="460">JERUSALEM</text>
+    <text x="252" y="460">ANTIOCH</text>
+    <text x="481" y="460">EPHESUS</text>
+    <text x="742" y="460">MACEDONIA</text>
+    <text x="1063" y="460">ROME</text>
+  </g>
+  <g fill="#5B6170" font-family="Arial, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="18" font-weight="500">
+    <text x="72" y="515">장면 93개</text>
+    <text x="252" y="515">단원 9개</text>
+    <text x="481" y="515">본문 경유지</text>
+    <text x="742" y="515">이동 경로</text>
+    <text x="1063" y="515">행 28장</text>
+  </g>
+  <path d="M72 558H1128" stroke="#B7BDC7" stroke-width="2"/>
+  <text x="72" y="598" fill="#1A1D24" font-family="Arial, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="20" font-weight="650">ACTS MAP</text>
+</svg>

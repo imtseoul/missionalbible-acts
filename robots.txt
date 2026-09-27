@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acts.missionalbible.org/sitemap.xml
